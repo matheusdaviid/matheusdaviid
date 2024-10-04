@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a59a8&height=150&section=header&text=Matheus%20David&fontSize=40&fontColor=ffffff&reversal=true"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a59a8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+David+;I'm+17+years+old;I+am+from+Santa+Bárbara+d'+Oeste,+SP;I+study+Technology+and+information+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a59a8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+David+;I'm+17+years+old;I+am+from+Santa+Bárbara+d'+Oeste,+SP;I+study+Technology+and+information+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- GIF horizontal ocupando a tela toda -->
